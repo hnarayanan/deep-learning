@@ -9,7 +9,7 @@ Happy learning!
 
 ## Books
 
-1. [http://www.deeplearningbook.org](http://www.deeplearningbook.org)
+1. [Deep Learning](http://www.deeplearningbook.org)
 
 ## Courses
 
@@ -22,4 +22,8 @@ Happy learning!
 
 ## Papers
 
-1. [Deep learning (a review in Nature)](https://github.com/hnarayanan/CS231n/blob/master/papers/deep-review.pdf)
+1. [Deep learning](https://github.com/hnarayanan/CS231n/blob/master/papers/deep-review.pdf)
+
+## Software
+
+1. [Keras](https://keras.io)
