@@ -21,13 +21,13 @@ If you're coming in with some knowledge of programming and
 mathematics, you can skip ahead in this pathway and complete it in a
 few months of part time study. If you're coming in as a complete
 novice, this material will seem daunting at first. But do not be
-discouraged, [ask for help][discussions]. As you work through it
-systematically, and you will get to a place where things make sense.
+discouraged, [ask for help][discussions]. Things will begin to get
+clearer as you systematically work through the material.
 
 If you'd like to suggest additions to this learning pathway,
-please open [an issue][gh-issue] or a [pull request][gh-pr]. Note that
-I only incorporate material that I have thoroughly gone through, so
-please be patient.
+please open [an issue][gh-issue] or a [pull request][gh-pr] on
+GitHub. Note that I only incorporate material that I have thoroughly
+gone through, so please be patient.
 
 Happy learning!
 
