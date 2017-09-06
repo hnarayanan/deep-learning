@@ -20,9 +20,9 @@ learning.
 If you're coming in with some knowledge of programming and
 mathematics, you can skip ahead in this pathway and complete it in a
 few months of part time study. If you're coming in as a complete
-novice, this material will seem daunting at first. But do not be
-discouraged, [ask for help][discussions]. Things will begin to get
-clearer as you systematically work through the material.
+novice, this material will take a lot longer to cover. But do not be
+discouraged, [ask for help][discussions] if you need it. Things will
+begin to get clearer as you systematically work through the material.
 
 If you'd like to suggest additions to this learning pathway,
 please open [an issue][gh-issue] or a [pull request][gh-pr] on
@@ -33,29 +33,45 @@ Happy learning!
 
 [Harish Narayanan][personal-website], 2017
 
-### Books
 
-1. [Deep Learning](http://www.deeplearningbook.org)
+### Mathematics Basics
 
-### Courses
+- Calculus
+- Linear Algebra
+- Numerical Methods
+- Probability and Information Theory
 
-https://work.caltech.edu/telecourse
+### Programming Basics
 
-1. [Stanford CS231n: Convolutional Neural Networks for Visual Recognition](https://github.com/hnarayanan/CS231n)
-2. [Stanford CS224n: Natural Language Processing with Deep Learning](https://github.com/hnarayanan/CS224n)
+- Python
+- Numerical Programming with Python and Numpy
 
-### Tutorials and Blogs
+### Machine Learning in General
 
-1. [Distill](http://distill.pub)
+- https://www.coursera.org/learn/machine-learning
+- https://work.caltech.edu/telecourse
 
-### Papers
+### Deep Learning in General
 
-1. [Deep learning](https://github.com/hnarayanan/CS231n/blob/master/papers/deep-review.pdf)
+- https://www.coursera.org/specializations/deep-learning
 
-### Software
+### Focus Areas
 
-1. [Keras](https://keras.io)
+- [Stanford CS231n: Convolutional Neural Networks for Visual Recognition](https://github.com/hnarayanan/CS231n)
+- [Stanford CS224n: Natural Language Processing with Deep Learning](https://github.com/hnarayanan/CS224n)
 
+### Capstone Project
+
+TODO: Selected from an [application area][applications].
+
+---
+
+### Unclassified Resources
+
+- [Deep Learning](http://www.deeplearningbook.org)
+- [Distill](http://distill.pub)
+- [Deep learning](https://github.com/hnarayanan/CS231n/blob/master/papers/deep-review.pdf)
+- [Keras](https://keras.io)
 
 [gh-issue]: https://github.com/hnarayanan/learning-deep-learning/issues
 [gh-pr]: https://github.com/hnarayanan/learning-deep-learning/pulls
