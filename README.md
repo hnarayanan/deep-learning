@@ -1,15 +1,16 @@
 # Learning Deep Learning
 
-*Deep learning* is a family of computational methods that solve problems
-that *feel intuitive* when stated, like recognising a face in an
-image, but where it's hard to explicitly write down all the steps a
-computer needs to follow to solve them. These methods work by allowing
-computers to learn from experience, whereby they build an
+*Deep learning* is a family of computational methods that solve
+problems that sound *intuitive* when stated, like recognising a face
+in an image, but where it's hard to explicitly write down all the
+steps a computer needs to follow to solve them. These methods work by
+allowing computers to learn from experience, whereby they build an
 understanding of the world in terms of a hierarchy of increasingly
 sophisticated concepts. Deep learning methods have dramatically
-improved the state-of-the-art in [many domains][applications], from
-voice-based virtual assistants to dermatologist-level classification
-of skin cancer to self-driving automobiles.
+improved the state-of-the-art in [many application
+domains][applications]: from voice-based virtual assistants, to
+dermatologist-level classification of skin cancer, to self-driving
+automobiles.
 
 This learning pathway strings together the best resources on the
 web to help you learn deep learning. It covers a lot of ground,
@@ -21,7 +22,7 @@ If you're coming in with some knowledge of programming and
 mathematics, you can skip ahead in this pathway and complete it in a
 few months of part time study. If you're coming in as a complete
 novice, this material will take a lot longer to cover. But do not be
-discouraged, [ask for help][discussions] if you need it. Things will
+discouraged, [ask for help as you need it][discussions]. Things will
 begin to get clearer as you systematically work through the material.
 
 If you'd like to suggest additions to this learning pathway,
@@ -47,6 +48,11 @@ Happy learning!
 - Numerical Programming with Python and Numpy
 
 ### Machine Learning in General
+
+TODO: Deep learning is a subset of machine learning. Before you jump to deep
+learning, you might want to brush up on the broader fundamentals of
+machine learning. Here are two classes that offer an excellent
+introduction. You can pick either one as a starting point.
 
 - https://www.coursera.org/learn/machine-learning
 - https://work.caltech.edu/telecourse
