@@ -25,10 +25,10 @@ novice, this material will take a lot longer to cover. But do not be
 discouraged, [ask for help as you need it][discussions]. Things will
 begin to get clearer as you systematically work through the material.
 
-If you'd like to suggest additions to this learning pathway,
-please open [an issue][gh-issue] or a [pull request][gh-pr] on
-GitHub. Note that I only incorporate material that I have thoroughly
-gone through, so please be patient.
+If you'd like to suggest additions or improvements to this learning
+pathway, please open [an issue][gh-issue] or a [pull request][gh-pr]
+on GitHub. Note that I only incorporate material that I have
+thoroughly gone through, so please be patient.
 
 Happy learning!
 
@@ -38,7 +38,7 @@ Happy learning!
 ### Mathematics Basics
 
 - Calculus
-- Linear Algebra
+- Linear Algebra: https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/index.htm
 - Numerical Methods
 - Probability and Information Theory
 
@@ -49,12 +49,21 @@ Happy learning!
 
 ### Machine Learning in General
 
-TODO: Deep learning is a subset of machine learning. Before you jump to deep
+Deep learning is a subset of machine learning. Before you jump to deep
 learning, you might want to brush up on the broader fundamentals of
-machine learning. Here are two classes that offer an excellent
-introduction. You can pick either one as a starting point.
+machine learning.
+
+The ideal place to start for a beginner is the Machine Learning course
+by Andrew Ng on Coursera. It is a gentle introduction to a variety of
+topics without getting too bogged down in mathematical detail.
 
 - https://www.coursera.org/learn/machine-learning
+
+When you're done with this, you have a choice of two courses to pick
+from. Both of the following offer additional insight by digging deeper
+into the mathematics.
+
+- https://see.stanford.edu/Course/CS229
 - https://work.caltech.edu/telecourse
 
 ### Deep Learning in General
@@ -65,6 +74,8 @@ introduction. You can pick either one as a starting point.
 
 - [Stanford CS231n: Convolutional Neural Networks for Visual Recognition](https://github.com/hnarayanan/CS231n)
 - [Stanford CS224n: Natural Language Processing with Deep Learning](https://github.com/hnarayanan/CS224n)
+- https://www.youtube.com/playlist?list=PL613dYIGMXoZBtZhbyiBqb0QtgK6oJbpm
+- http://rll.berkeley.edu/deeprlcourse/
 
 ### Capstone Project
 
@@ -78,6 +89,10 @@ TODO: Selected from an [application area][applications].
 - [Distill](http://distill.pub)
 - [Deep learning](https://github.com/hnarayanan/CS231n/blob/master/papers/deep-review.pdf)
 - [Keras](https://keras.io)
+- https://www.coursera.org/course/neuralnets
+- http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml
+- https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf
+- http://neuralnetworksanddeeplearning.com/
 
 [gh-issue]: https://github.com/hnarayanan/learning-deep-learning/issues
 [gh-pr]: https://github.com/hnarayanan/learning-deep-learning/pulls
