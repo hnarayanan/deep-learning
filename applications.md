@@ -2,9 +2,6 @@
 
 |  Face detection | CNN | https://arxiv.org/abs/1611.00851 |
 |  ------ | ------ | ------ |
-|   |  |  |
-|   |  |  |
-|   |  |  |
 |  Colorization of Black and White Images. | Large, fully convolutional | http://www.cs.cityu.edu.hk/~qiyang/publicatio ns/iccv-15.pdf<br/> http://arxiv.org/pdf/1603.08511.pdf |
 |  Adding Sounds To Silent Movies. | CNN + LSTM | http://arxiv.org/pdf/1512.08512.pdf |
 |  Automatic Machine Translation. | Stacked networks of large<br/> <br/> LSTM recurrent neural<br/> <br/> networks | http://www.nlpr.ia.ac.cn/cip/ZongPublications/ 2015/IEEE-Zhang-8-5.pdf<br/> https://arxiv.org/abs/1612.06897 https://arxiv.org/abs/1611.04558 |
