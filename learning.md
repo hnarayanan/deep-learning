@@ -79,6 +79,6 @@ TODO: Selected from an [application area][applications].
 - https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf
 - http://neuralnetworksanddeeplearning.com/
 
-[gh-issue]: https://github.com/hnarayanan/learning-deep-learning/issues
-[gh-pr]: https://github.com/hnarayanan/learning-deep-learning/pulls
+[gh-issue]: https://github.com/hnarayanan/deep-learning/issues
+[gh-pr]: https://github.com/hnarayanan/deep-learning/pulls
 [discussions]: https://todo
