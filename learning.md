@@ -24,9 +24,9 @@ Happy learning!
 
 A good, undergraduate-level understanding of a few branches of
 mathematics is essential for truly understanding machine learning
-algorithms (and deep learning in particular). The following courses
-offer excellent insights into these areas, and form a solid base for
-you to begin your journey.
+algorithms. This is especially true for deep learning algorithms. The
+following courses offer excellent insights into these areas, and form
+a solid base for you to begin your journey.
 
 - Calculus
 - [Linear Algebra][linear-algebra-course]
@@ -41,8 +41,8 @@ later!
 
 ### Introduction to Programming
 
-- Python
-- Numerical Programming with Python and Numpy
+- [Python][python-course] 💸
+- [Numerical Programming with Python and Numpy][python-numpy-tutorial]
 
 ### Machine Learning in General
 
@@ -91,6 +91,12 @@ TODO: Selected from an [application area][applications].
 - https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf
 - http://neuralnetworksanddeeplearning.com/
 - https://www.amazon.com/Numerical-Linear-Algebra-Lloyd-Trefethen/dp/0898713617
+- https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf
+- http://www-bcf.usc.edu/%7Egareth/ISL/
+- Keras
+- Pytorch
+- Tensorflow
+- Optimization
 
 [gh-issue]: https://github.com/hnarayanan/deep-learning/issues
 [gh-pr]: https://github.com/hnarayanan/deep-learning/pulls
@@ -99,3 +105,5 @@ TODO: Selected from an [application area][applications].
 [discussions]: https://todo
 
 [linear-algebra-course]: https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/index.htm
+[python-course]: https://learnpythonthehardway.org
+[python-numpy-tutorial]: http://cs231n.github.io/python-numpy-tutorial/
