@@ -1,10 +1,9 @@
 # Learning Deep Learning
 
-This learning pathway strings together the best resources on the
+This learning pathway strings together the best free resources on the
 web to help you learn deep learning. It covers a lot of ground,
 starting with some broad background in programming and mathematics,
-and works its way to research-level applications of deep
-learning.
+and works its way to research-level applications of deep learning.
 
 If you're coming in with some knowledge of programming and
 mathematics, you can skip ahead in this pathway and complete it in a
@@ -26,13 +25,12 @@ A good, undergraduate-level understanding of a few branches of
 mathematics is essential for truly understanding machine learning
 algorithms. This is especially true for deep learning algorithms. The
 following courses offer excellent insights into these areas, and form
-a solid base for you to begin your journey.
+a solid base for you to begin your journey:
 
 - Calculus
 - [Linear Algebra][linear-algebra-course]
 - Probability and Information Theory
 - Numerical Methods
-
 
 If you're already familiar with the any of the following topics, feel
 free to skip the corresponding courses. Just note that these excellent
@@ -41,7 +39,25 @@ later!
 
 ### Introduction to Programming
 
-- [Python][python-course] 💸
+I have made a conscious (and opinionated) choice to focus this
+learning pathway primarily around a programming language called
+Python. Python is easy for newcomers to pickup, and is excellent both
+for general purpose programming, as well as many specific domains
+including deep learning.
+
+If you're a newcomer to programming, you'll want to start from the
+beginning:
+
+- [Introduction to Computer Science and Programming in Python][python-course]
+
+This course will not only introduce you to Python, but also shows you
+how to go about solving complex problems by decomposing them into
+simpler sub-problems.
+
+Once you're familiar with general-purpose programming with Python, I
+suggest the following tutorial to get a sense of its use in numerical
+programming:
+
 - [Numerical Programming with Python and Numpy][python-numpy-tutorial]
 
 ### Machine Learning in General
@@ -97,6 +113,8 @@ TODO: Selected from an [application area][applications].
 - Pytorch
 - Tensorflow
 - Optimization
+- https://github.com/jakevdp/sklearn_tutorial
+- https://www.youtube.com/watch?v=HC0J_SPm9co
 
 [gh-issue]: https://github.com/hnarayanan/deep-learning/issues
 [gh-pr]: https://github.com/hnarayanan/deep-learning/pulls
@@ -104,6 +122,6 @@ TODO: Selected from an [application area][applications].
 [applications]: applications.md
 [discussions]: https://todo
 
-[linear-algebra-course]: https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/index.htm
-[python-course]: https://learnpythonthehardway.org
+[linear-algebra-course]: https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/
+[python-course]: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/
 [python-numpy-tutorial]: http://cs231n.github.io/python-numpy-tutorial/
