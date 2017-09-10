@@ -1,7 +1,7 @@
 # Deep Learning
 
 *Deep learning* is a family of computational methods that solve
-problems that sound *intuitive* when stated, like recognising a face
+problems that sound intuitive when stated, like recognising a face
 in an image, but where it's hard to explicitly write down all the
 steps a computer needs to follow to solve them. These methods work by
 allowing computers to learn from experience, whereby they build an

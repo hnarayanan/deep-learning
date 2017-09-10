@@ -20,14 +20,26 @@ thoroughly gone through myself, so please be patient.
 
 Happy learning!
 
-### Mathematics Basics
+### Mathematical Prerequisites
+
+A good, undergraduate-level understanding of a few branches of
+mathematics is essential for truly understanding machine learning
+algorithms (and deep learning in particular). The following courses
+offer excellent insights into these areas, and form a solid base for
+you to begin your journey.
 
 - Calculus
-- Linear Algebra: https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/index.htm
-- Numerical Methods
+- [Linear Algebra][linear-algebra-course]
 - Probability and Information Theory
+- Numerical Methods
 
-### Programming Basics
+
+If you're already familiar with the any of the following topics, feel
+free to skip the corresponding courses. Just note that these excellent
+resources exist in case you want to return to brush up on concepts
+later!
+
+### Introduction to Programming
 
 - Python
 - Numerical Programming with Python and Numpy
@@ -51,7 +63,7 @@ into the mathematics.
 - https://see.stanford.edu/Course/CS229
 - https://work.caltech.edu/telecourse
 
-### Deep Learning in General
+### A Broad Look at Deep Learning
 
 - https://www.coursera.org/specializations/deep-learning
 
@@ -78,7 +90,12 @@ TODO: Selected from an [application area][applications].
 - http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml
 - https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf
 - http://neuralnetworksanddeeplearning.com/
+- https://www.amazon.com/Numerical-Linear-Algebra-Lloyd-Trefethen/dp/0898713617
 
 [gh-issue]: https://github.com/hnarayanan/deep-learning/issues
 [gh-pr]: https://github.com/hnarayanan/deep-learning/pulls
+[applications]: learning.md
+[applications]: applications.md
 [discussions]: https://todo
+
+[linear-algebra-course]: https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/index.htm
