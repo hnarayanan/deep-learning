@@ -19,7 +19,7 @@ thoroughly gone through myself, so please be patient.
 
 Happy learning!
 
-### Mathematical Prerequisites
+## Mathematical Prerequisites
 
 A good, undergraduate-level understanding of a few branches of
 mathematics is essential for truly understanding machine learning
@@ -37,7 +37,7 @@ free to skip the corresponding courses. Just note that these excellent
 resources exist in case you want to return to brush up on concepts
 later!
 
-### Introduction to Programming
+## Introduction to Programming
 
 I have made a conscious (and opinionated) choice to focus this
 learning pathway primarily around a programming language called
@@ -60,7 +60,7 @@ programming:
 
 - [Numerical Programming with Python and Numpy][python-numpy-tutorial]
 
-### Machine Learning in General
+## Machine Learning in General
 
 Deep learning is a subset of machine learning. Before you jump to deep
 learning, you might want to brush up on the broader fundamentals of
@@ -79,24 +79,24 @@ into the mathematics.
 - https://see.stanford.edu/Course/CS229
 - https://work.caltech.edu/telecourse
 
-### A Broad Look at Deep Learning
+## A Broad Look at Deep Learning
 
 - https://www.coursera.org/specializations/deep-learning
 
-### Focus Areas
+## Focus Areas
 
 - [Stanford CS231n: Convolutional Neural Networks for Visual Recognition](https://github.com/hnarayanan/CS231n)
 - [Stanford CS224n: Natural Language Processing with Deep Learning](https://github.com/hnarayanan/CS224n)
 - https://www.youtube.com/playlist?list=PL613dYIGMXoZBtZhbyiBqb0QtgK6oJbpm
 - http://rll.berkeley.edu/deeprlcourse/
 
-### Capstone Project
+## Capstone Project
 
 TODO: Selected from an [application area][applications].
 
 ---
 
-### Unclassified Resources
+## Unclassified Resources
 
 - [Deep Learning](http://www.deeplearningbook.org)
 - [Distill](http://distill.pub)
