@@ -42,7 +42,7 @@ later!
 I have made a conscious (and opinionated) choice to focus this
 learning pathway primarily around a programming language called
 Python. Python is easy for newcomers to pickup, and is excellent both
-for general purpose programming, as well as many specific domains
+for general purpose programming as well as many specific domains
 including deep learning.
 
 If you're a newcomer to programming, you'll want to start from the
@@ -85,8 +85,11 @@ into the mathematics.
 
 ## Focus Areas
 
-- [Stanford CS231n: Convolutional Neural Networks for Visual Recognition](https://github.com/hnarayanan/CS231n)
-- [Stanford CS224n: Natural Language Processing with Deep Learning](https://github.com/hnarayanan/CS224n)
+TODO: The following focus areas will match the top level [applications
+classification][applications].
+
+- [Visual Recognition](http://cs231n.stanford.edu)
+- [Natural Language Processing](http://web.stanford.edu/class/cs224n/)
 - https://www.youtube.com/playlist?list=PL613dYIGMXoZBtZhbyiBqb0QtgK6oJbpm
 - http://rll.berkeley.edu/deeprlcourse/
 
